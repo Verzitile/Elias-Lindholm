@@ -32,6 +32,4 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 ## ❤️ Support
 
-If you like what I do and want to support me, you can buy me a coffee.
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-orange)](https://www.buymeacoffee.com/Elias-Lindholm)
+If you like what I do and want to support me, you can [buy me a coffee](https://www.buymeacoffee.com/Elias-Lindholm).
