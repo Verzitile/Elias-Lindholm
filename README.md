@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="EliasLindholm" data-color="#FFDD00" data-emoji="💻️"  data-font="Cookie" data-text="Buy me a pc" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 # Hello, I'm Elias Lindholm! 👋
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Elias-Lindholm.Elias-Lindholm)](https://github.com/Elias-Lindholm)
