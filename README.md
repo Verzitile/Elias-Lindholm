@@ -1,37 +1,32 @@
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="EliasLindholm" data-color="#FFDD00" data-emoji="💻️"  data-font="Cookie" data-text="Buy me a pc" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+# Hey there! 👋 I'm Elias Lindholm
 
-# Hello, I'm Elias Lindholm! 👋
+Welcome to my GitHub profile! I'm passionate about coding, gaming, and exploring new technologies. Currently, I'm diving deep into web development and honing my skills in JavaScript, Node.js, and HTML, as well as Python for data analysis and machine learning.
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Elias-Lindholm.Elias-Lindholm)](https://github.com/Elias-Lindholm)
+## About Me
 
-Welcome to my GitHub profile! I'm Elias Lindholm, a passionate web developer with expertise in Node.js and Python. You can explore some of my projects below:
+- 💻 Software Engineer
+- 🌱 Constant learner
+- 🚀 Open source enthusiast
 
-## 📊 GitHub Stats
+## Skills
 
-![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias-Lindholm&show_icons=true&count_private=true&hide=contribs,prs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-![Elias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Lindholm&layout=compact)
+## Get in Touch
 
-## 🛠️ Skills
+- 🐦 Twitter: [@Catspindev_v1](https://twitter.com/Catspindev_v1)
 
-- Programming languages: Node.js, Python
-- Web development: HTML, CSS, JavaScript
-- Frameworks and libraries: Express.js, Flask
-- Database: MongoDB, SQLite
-- Tools and technologies: Git, VSCode, Docker
+## Stats
 
-## 🚀 Featured Repositories
+![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elias-Lindholm&show_icons=true&theme=radical)
 
-Feel free to explore more on my [GitHub profile](https://github.com/Elias-Lindholm?tab=repositories).
+## Projects
 
-## 📬 Let's Connect
+Here are some of my notable projects:
 
-- Personal Website: [catspindev.se](https://catspindev.se)
+- [README-Profile-Templates)]([https://github.com/Elias-Lindholm/project-1](https://github.com/Elias-Lindholm/README-Profile-Templates)): Description of Project 1.
 
-## 🤝 Contributing
-
-If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-## ❤️ Support
-
-If you like what I do and want to support me, you can [buy me a coffee](https://www.buymeacoffee.com/eliaslindholm).
+Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat! 😄
